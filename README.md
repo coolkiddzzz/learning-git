@@ -1,5 +1,5 @@
 # Learning Git
 This is my repo for learning git. 
 
-## Testing
+## Git Branching
 git branch 
