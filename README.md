@@ -28,14 +28,17 @@ Reference: [Documentation](https://docs.github.com/en/authentication)
 | git log                           | show all commits in the current branch’s history                         |
 
 ## Most Commonly Used Commands 
-These commands are used for creating a branch and merge with the main branch. The detailed steps are as per follows:
+These commands are used for creating a branch and merge with the main branch. These are commonly used for collaboration among team members when working on the code. 
+- Git add, Git commit, Git push, Git merge
+
+Detailed steps for git branch merging are as per follows:
 - git init 
 - git pull
 - git branch [branch-name]
 - git checkout [branch-name]
 - git add .
 - git commit -m 'message'
-- git push -u origin [branch0name]
+- git push -u origin [branch-name]
 - git checkout master 
 - git merge [branch-name]
 
